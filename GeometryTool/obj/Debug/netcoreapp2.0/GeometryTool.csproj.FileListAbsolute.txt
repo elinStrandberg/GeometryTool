@@ -1,0 +1,10 @@
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\bin\Debug\netcoreapp2.0\GeometryTool.deps.json
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\bin\Debug\netcoreapp2.0\GeometryTool.runtimeconfig.json
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\bin\Debug\netcoreapp2.0\GeometryTool.runtimeconfig.dev.json
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\bin\Debug\netcoreapp2.0\GeometryTool.dll
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\bin\Debug\netcoreapp2.0\GeometryTool.pdb
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\obj\Debug\netcoreapp2.0\GeometryTool.csproj.CoreCompileInputs.cache
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\obj\Debug\netcoreapp2.0\GeometryTool.AssemblyInfoInputs.cache
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\obj\Debug\netcoreapp2.0\GeometryTool.AssemblyInfo.cs
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\obj\Debug\netcoreapp2.0\GeometryTool.dll
+C:\Users\Elin\source\repos\GeometryTool\GeometryTool\obj\Debug\netcoreapp2.0\GeometryTool.pdb
